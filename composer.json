@@ -65,6 +65,9 @@
         }
     },
     "config": {
+        "platform": {
+            "ext-zip": "1.0.0"
+        },
         "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
